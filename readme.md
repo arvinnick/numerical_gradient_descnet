@@ -1,0 +1,1 @@
+This is an attempt to implement gradient descent in a numerical way.<br>
